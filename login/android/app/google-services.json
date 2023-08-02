@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "497261661198",
+    "project_id": "authtutorial-aba35",
+    "storage_bucket": "authtutorial-aba35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:497261661198:android:c109388a9f911fcf9c005f",
+        "android_client_info": {
+          "package_name": "com.example.sosvolaille"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "497261661198-cptfu72687o3tfhq91uh9dbsb8999vhn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sosvolaille",
+            "certificate_hash": "c825095c4bd570971f131c915ea3e2f9486dbb79"
+          }
+        },
+        {
+          "client_id": "497261661198-22begrcprdifga7u6g4if8n4uj1t35c5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlwlLJH85f5VTjBAz2ucULxAq6SNjjW2E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "497261661198-22begrcprdifga7u6g4if8n4uj1t35c5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "497261661198-rmijeh4p1d15op5pj20gsob57sgcj93t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sosvolaille"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
